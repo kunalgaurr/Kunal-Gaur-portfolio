@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-family: 'IBM Plex Mono', monospace;
+}
+h3{
+    font-family: 'Nunito', sans-serif;
+
+}
